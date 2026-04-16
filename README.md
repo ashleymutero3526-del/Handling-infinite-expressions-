@@ -1,7 +1,7 @@
 # Handling-infinite-expressions-
 
-Handleinfiniteexpressions-(theoretically unlimitedlength) 
+Handle infinite expressions-(theoretically unlimitedlength) 
 
-·Convertinfixtopostfix(usingShunting- yardalgorithm) 
+·Convert infix to postfix -(usingShunting- yardalgorithm) 
 
-·Convertinfixtoprefix(byreversingand modifyingthealgorithm)
+·Convert infix to prefix -(byreversingand modifyingthealgorithm)
